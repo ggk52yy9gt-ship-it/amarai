@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <div style={{ textAlign: 'center', padding: '40px', fontFamily: 'Arial' }}>
+      <h1>مرحباً بك في AmarAI</h1>
+      <p>الموقع يعمل الآن بنجاح 🚀</p>
+    </div>
+  );
+}
