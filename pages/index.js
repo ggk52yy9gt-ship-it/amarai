@@ -1,1 +1,0 @@
-export default function Home(){return(<div><h1>Amarai Ready</h1></div>)}
